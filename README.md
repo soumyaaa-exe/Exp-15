@@ -40,4 +40,5 @@ Multiple column encoding: Allows encoding of several categorical columns simulta
 Normalization on multiple columns: Applies scaling operations on selected columns together.
 
 Categorical to numerical conversion: Required for machine learning models to process non-numeric data.
+
 CONCLUSION : In this experiment, we studied different normalization techniques such as Min-Max, Z-score, and Decimal Scaling to scale numerical data. We also learned how to convert categorical data into numerical form using Label Encoding and One-Hot Encoding. These techniques help improve model performance and data consistency. Overall, normalization and encoding are essential steps in data preprocessing.
