@@ -1,4 +1,5 @@
 AIM: To study different data normalization techniques and encoding methods in Pandas and Scikit-learn for converting categorical data into numerical form.
+
 THEORY :
 pd.DataFrame(): Creates a structured tabular dataset from dictionary data.
 
